@@ -1,0 +1,17 @@
+# ninja log v5
+3	483	7126087103698588	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+483	601	7126087104651229	CMakeTarget.exe	4ad6e38f00332c36
+12	565	7126087359717450	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+565	658	7126087360346346	CMakeTarget.exe	4ad6e38f00332c36
+9	550	7126087567136667	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+550	639	7126087567766839	CMakeTarget.exe	4ad6e38f00332c36
+3	488	7126088997529868	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+488	587	7126088998284982	CMakeTarget.exe	4ad6e38f00332c36
+2	571	7126089293775297	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+572	664	7126089294479255	CMakeTarget.exe	4ad6e38f00332c36
+2	568	7126089885951287	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+569	657	7126089886580170	CMakeTarget.exe	4ad6e38f00332c36
+10	564	7126090871382779	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+565	656	7126090872176208	CMakeTarget.exe	4ad6e38f00332c36
+9	469	7126090982562325	CMakeFiles/CMakeTarget.dir/Valid_Parentheses.cpp.obj	1b5cc8a6128df3da
+469	550	7126090983190175	CMakeTarget.exe	4ad6e38f00332c36
